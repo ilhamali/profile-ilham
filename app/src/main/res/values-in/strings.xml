@@ -1,10 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Profil</string>
     <string name="photo">Foto</string>
     <string name="pengikut">Pengikut</string>
     <string name="mengikuti">Mengikuti</string>
-    <string-array name="language_option">
-        <item>Arab</item>
-        <item>Indonesia</item>
-    </string-array>
 </resources>
