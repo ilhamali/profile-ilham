@@ -3,6 +3,10 @@
     <string name="photo">Foto</string>
     <string name="pengikut">Pengikut</string>
     <string name="mengikuti">Mengikuti</string>
+    <string name="email">ilhamali8560@gmail.com</string>
+    <string name="telepon">081654977255</string>
+    <string name="ig">ilhaaammmm_ali</string>
+    <string name="alamat">Jl. Trowongso Malang Jawa Timur</string>
     <string-array name="language_option">
         <item>Arab</item>
         <item>Indonesia</item>

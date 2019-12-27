@@ -154,7 +154,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical"
                 android:paddingLeft="20dp"
-                android:text="ilhamali8560@gmail.com"
+                android:text="@string/email"
                 android:textStyle="bold" />
         </LinearLayout>
 
@@ -176,7 +176,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical"
                 android:paddingLeft="20dp"
-                android:text="081654977255"
+                android:text="@string/telepon"
                 android:textStyle="bold" />
         </LinearLayout>
 
@@ -198,7 +198,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical"
                 android:paddingLeft="20dp"
-                android:text="ilhaaammmm_ali"
+                android:text="@string/ig"
                 android:textStyle="bold" />
         </LinearLayout>
 
@@ -220,7 +220,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical"
                 android:paddingLeft="20dp"
-                android:text="Jl. Trowongso Malang Jawa Timur"
+                android:text="@string/alamat"
                 android:textStyle="bold" />
         </LinearLayout>
 
